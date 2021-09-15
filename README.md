@@ -1,4 +1,4 @@
-# Manchas 1.0
+# Manchas
 ![Manchas icon](https://github.com/lheredias/manchas/blob/main/finalicon02.ico) ![Manchas logo](https://github.com/lheredias/manchas/blob/main/app%20name02.png) 
 
 ```
@@ -47,6 +47,7 @@ Para su instalación no requieres contar con privilegios de Administrador.
 * PyQt5
 * Pandas
 * json
+* [requests](https://docs.python-requests.org/en/latest/)
 
 ## :speech_balloon: Dudas y consultas
 
@@ -55,4 +56,4 @@ Para dudas y consultas, crea una discusión [por aquí](https://github.com/lhere
 ## :closed_book: Licencia
 
 * Manchas es una aplicación gratuita y de código abierto. 
-* [GPL License](https://github.com/lheredias/manchas/blob/main/LICENSE)
+* [GPL License](https://github.com/lheredias/manchas/blob/main/LICENCE)

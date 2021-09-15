@@ -25,7 +25,7 @@ Para su instalación no requieres contar con privilegios de Administrador.
 
 ## :coffee: Invítame un cafecito
 
-* ¿Te resultó útil? Entonces apoya el desarollo de código abierto financiando las tazas de café que hacen posible su desarrollo.
+* ¿Te resultó útil? Entonces apoya este proyecto de código abierto financiando las tazas de café que hacen posible su desarrollo.
 
 * [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?cmd=_s-xclick&hosted_button_id=A4T4MYRVADR6C)
 
